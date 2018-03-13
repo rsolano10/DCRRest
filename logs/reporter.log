@@ -1,0 +1,78 @@
+2018-02-22T08:32:39.999Z - info: Initializing jsreport@1.10.0 in development mode using configuration file: none
+2018-02-22T08:32:40.009Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2018-02-22T08:32:40.009Z - info: Searching for available extensions in C:\Users\Esteban\Documents\GitHub\DigitalClinicalRecord\Restful\
+2018-02-22T08:32:40.019Z - info: Extensions location cache not found, crawling directories
+2018-02-22T08:32:42.832Z - info: Found 30 extensions
+2018-02-22T08:32:42.860Z - debug: Writing extension locations cache to C:\Users\Esteban\AppData\Local\Temp\jsreport\core\locations.json
+2018-02-22T08:32:42.869Z - debug: Discovered 30 extensions
+2018-02-22T08:32:42.869Z - info: Using extension jsrender
+2018-02-22T08:32:42.869Z - info: Using extension fop-pdf
+2018-02-22T08:32:42.939Z - info: Using extension handlebars
+2018-02-22T08:32:42.939Z - info: Using extension templates
+2018-02-22T08:32:42.949Z - info: Using extension html-to-xlsx
+2018-02-22T08:32:43.144Z - info: Using extension data
+2018-02-22T08:32:43.204Z - info: Using extension phantom-pdf
+2018-02-22T08:32:43.356Z - info: Using extension text
+2018-02-22T08:32:43.360Z - info: Using extension assets
+2018-02-22T08:32:43.389Z - info: Using extension scripts
+2018-02-22T08:32:43.473Z - info: Using extension xlsx
+2018-02-22T08:32:44.193Z - info: Creating memory store
+2018-02-22T08:32:44.222Z - info: reporter initialized
+2018-02-22T08:32:44.222Z - info: Starting rendering request 1 (user: null) requestId=1
+2018-02-22T08:32:44.222Z - info: Rendering anonymous template { recipe:phantom-pdf,engine:handlebars} requestId=1
+2018-02-22T08:32:44.226Z - debug: Data item not defined for this template. requestId=1
+2018-02-22T08:32:44.226Z - debug: Rendering engine handlebars requestId=1
+2018-02-22T08:32:44.594Z - debug: Compiled template not found in the cache, compiling timestamp=Thu Feb 22 2018 02:32:44 GMT-0600 (Hora estándar, América Central), requestId=1
+2018-02-22T08:32:44.598Z - debug: Executing recipe phantom-pdf requestId=1
+2018-02-22T08:35:58.789Z - info: Initializing jsreport@1.10.0 in development mode using configuration file: none
+2018-02-22T08:35:58.789Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2018-02-22T08:35:58.799Z - info: Searching for available extensions in C:\Users\Esteban\Documents\GitHub\DigitalClinicalRecord\Restful\
+2018-02-22T08:35:58.811Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Esteban\Documents\GitHub\DigitalClinicalRecord\Restful\node_modules\
+2018-02-22T08:35:58.823Z - info: Found 30 extensions
+2018-02-22T08:35:58.851Z - debug: Writing extension locations cache to C:\Users\Esteban\AppData\Local\Temp\jsreport\core\locations.json
+2018-02-22T08:35:58.863Z - debug: Discovered 30 extensions
+2018-02-22T08:35:58.863Z - info: Using extension jsrender
+2018-02-22T08:35:58.867Z - info: Using extension fop-pdf
+2018-02-22T08:35:58.946Z - info: Using extension handlebars
+2018-02-22T08:35:58.946Z - info: Using extension templates
+2018-02-22T08:35:58.958Z - info: Using extension html-to-xlsx
+2018-02-22T08:35:59.154Z - info: Using extension data
+2018-02-22T08:35:59.227Z - info: Using extension phantom-pdf
+2018-02-22T08:35:59.351Z - info: Using extension text
+2018-02-22T08:35:59.351Z - info: Using extension assets
+2018-02-22T08:35:59.367Z - info: Using extension scripts
+2018-02-22T08:35:59.437Z - info: Using extension xlsx
+2018-02-22T08:36:00.133Z - info: Creating memory store
+2018-02-22T08:36:00.163Z - info: reporter initialized
+2018-02-22T08:36:00.163Z - info: Starting rendering request 1 (user: null) requestId=1
+2018-02-22T08:36:00.173Z - info: Rendering anonymous template { recipe:phantom-pdf,engine:handlebars} requestId=1
+2018-02-22T08:36:00.173Z - debug: Data item not defined for this template. requestId=1
+2018-02-22T08:36:00.173Z - debug: Rendering engine handlebars requestId=1
+2018-02-22T08:36:00.511Z - debug: Compiled template not found in the cache, compiling timestamp=Thu Feb 22 2018 02:36:00 GMT-0600 (Hora estándar, América Central), requestId=1
+2018-02-22T08:36:00.511Z - debug: Executing recipe phantom-pdf requestId=1
+2018-02-22T08:36:58.659Z - info: Initializing jsreport@1.10.0 in development mode using configuration file: none
+2018-02-22T08:36:58.659Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2018-02-22T08:36:58.663Z - info: Searching for available extensions in C:\Users\Esteban\Documents\GitHub\DigitalClinicalRecord\Restful\
+2018-02-22T08:36:58.671Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\Esteban\Documents\GitHub\DigitalClinicalRecord\Restful\node_modules\
+2018-02-22T08:36:58.681Z - info: Found 30 extensions
+2018-02-22T08:36:58.701Z - debug: Writing extension locations cache to C:\Users\Esteban\AppData\Local\Temp\jsreport\core\locations.json
+2018-02-22T08:36:58.711Z - debug: Discovered 30 extensions
+2018-02-22T08:36:58.711Z - info: Using extension jsrender
+2018-02-22T08:36:58.715Z - info: Using extension fop-pdf
+2018-02-22T08:36:58.784Z - info: Using extension handlebars
+2018-02-22T08:36:58.794Z - info: Using extension templates
+2018-02-22T08:36:58.794Z - info: Using extension html-to-xlsx
+2018-02-22T08:36:58.998Z - info: Using extension data
+2018-02-22T08:36:59.082Z - info: Using extension phantom-pdf
+2018-02-22T08:36:59.213Z - info: Using extension text
+2018-02-22T08:36:59.217Z - info: Using extension assets
+2018-02-22T08:36:59.235Z - info: Using extension scripts
+2018-02-22T08:36:59.305Z - info: Using extension xlsx
+2018-02-22T08:37:00.098Z - info: Creating memory store
+2018-02-22T08:37:00.174Z - info: reporter initialized
+2018-02-22T08:37:00.174Z - info: Starting rendering request 1 (user: null) requestId=1
+2018-02-22T08:37:00.174Z - info: Rendering anonymous template { recipe:phantom-pdf,engine:handlebars} requestId=1
+2018-02-22T08:37:00.174Z - debug: Data item not defined for this template. requestId=1
+2018-02-22T08:37:00.184Z - debug: Rendering engine handlebars requestId=1
+2018-02-22T08:37:00.573Z - debug: Compiled template not found in the cache, compiling timestamp=Thu Feb 22 2018 02:37:00 GMT-0600 (Hora estándar, América Central), requestId=1
+2018-02-22T08:37:00.573Z - debug: Executing recipe phantom-pdf requestId=1

@@ -1,0 +1,12 @@
+{
+	"CORSIp": "*",
+	"sqlConfig": {
+	  "user": "User_web",
+	  "password": "D!C#R=",
+	  "server": "108.60.212.41",
+	  "database": "DCR_WEB",
+	  "options": {
+	    "encrypt": true
+	  }
+	}
+}
