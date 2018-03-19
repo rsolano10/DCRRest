@@ -6,7 +6,7 @@ var cors = require('cors');
 
 // configure app to use bodyParser()
 app.use(bodyParser({limit: '50mb'}));
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 app.use(bodyParser.json({limit: '50mb'}));
 app.use(cors({origin: '*'}));
 
