@@ -8,7 +8,7 @@ var cors = require('cors');
 app.use(bodyParser({limit: '50mb'}));
 app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 app.use(bodyParser.json({limit: '50mb'}));
-app.use(cors({origin: '*'}));
+app.use(cors());
 
 // set our port
 var port = process.env.PORT || 3000;
